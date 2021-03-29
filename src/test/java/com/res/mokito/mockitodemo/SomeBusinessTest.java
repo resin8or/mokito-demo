@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class SomeBusinessTest {
-
+    // This class is built using stub tests
     @BeforeClass
     public static void beforeClass(){
         System.out.println("Before class implementing ....");
